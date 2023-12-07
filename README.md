@@ -1,4 +1,4 @@
-# DanteOnline
+# Chicken Joe
 
 Hi there. I'm **DanteOnline (Chicken Joe)** 👋
 I am software developer and teacher
